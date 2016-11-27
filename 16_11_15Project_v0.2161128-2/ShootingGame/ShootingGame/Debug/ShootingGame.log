@@ -1,0 +1,9 @@
+﻿  WindowPrepare.cpp
+  TCPProcess.cpp
+  Game.cpp
+c:\users\nam taeho\desktop\projects\네트워크 텀프로젝트\16_11_15 project_v0.2161128-2\shootinggame\shootinggame\game.cpp(435): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: see declaration of 'inet_addr'
+c:\users\nam taeho\desktop\projects\네트워크 텀프로젝트\16_11_15 project_v0.2161128-2\shootinggame\shootinggame\game.cpp(473): warning C4101: 'clientaddr': unreferenced local variable
+c:\users\nam taeho\desktop\projects\네트워크 텀프로젝트\16_11_15 project_v0.2161128-2\shootinggame\shootinggame\game.cpp(474): warning C4101: 'addrlen': unreferenced local variable
+  Generating Code...
+  ShootingGame.vcxproj -> C:\Users\Nam Taeho\Desktop\Projects\네트워크 텀프로젝트\16_11_15 Project_v0.2161128-2\ShootingGame\Debug\ShootingGame.exe

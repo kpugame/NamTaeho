@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\nam taeho\desktop\projects\네트워크 텀프로젝트\16_11_15 project_v0.2161128-2\shootinggame_tcpserver\shootinggame_tcpserver\main.cpp(164): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\nam taeho\desktop\projects\네트워크 텀프로젝트\16_11_15 project_v0.2161128-2\shootinggame_tcpserver\shootinggame_tcpserver\main.cpp(178): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\nam taeho\desktop\projects\네트워크 텀프로젝트\16_11_15 project_v0.2161128-2\shootinggame_tcpserver\shootinggame_tcpserver\main.cpp(263): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+c:\users\nam taeho\desktop\projects\네트워크 텀프로젝트\16_11_15 project_v0.2161128-2\shootinggame_tcpserver\shootinggame_tcpserver\main.cpp(145): warning C4101: 'info': unreferenced local variable
+c:\users\nam taeho\desktop\projects\네트워크 텀프로젝트\16_11_15 project_v0.2161128-2\shootinggame_tcpserver\shootinggame_tcpserver\main.cpp(144): warning C4101: 'DataLen': unreferenced local variable
+c:\users\nam taeho\desktop\projects\네트워크 텀프로젝트\16_11_15 project_v0.2161128-2\shootinggame_tcpserver\shootinggame_tcpserver\main.cpp(271): warning C4101: 'tempRt': unreferenced local variable
+c:\users\nam taeho\desktop\projects\네트워크 텀프로젝트\16_11_15 project_v0.2161128-2\shootinggame_tcpserver\shootinggame_tcpserver\main.cpp(435): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\nam taeho\desktop\projects\네트워크 텀프로젝트\16_11_15 project_v0.2161128-2\shootinggame_tcpserver\shootinggame_tcpserver\main.cpp(686): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+c:\users\nam taeho\desktop\projects\네트워크 텀프로젝트\16_11_15 project_v0.2161128-2\shootinggame_tcpserver\shootinggame_tcpserver\main.cpp(703): warning C4700: uninitialized local variable 'client_sock' used
+  ShootingGame_TCPServer.vcxproj -> C:\Users\Nam Taeho\Desktop\Projects\네트워크 텀프로젝트\16_11_15 Project_v0.2161128-2\ShootingGame_TCPServer\Debug\ShootingGame_TCPServer.exe
